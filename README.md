@@ -1,14 +1,11 @@
 # US-Accidents-Predictive-Modeling-and-Analysis-Using-Machine-Learning
-Predictive Analytics and Exploratory Data Analysis of US Traffic Accidents Using Machine Learning
-
-<div style="background-color:#eaf5df; padding: 25px; border-radius: 5px; border-left: 6px solid #3498db; font-family: Arial, sans-serif;">
-
-## 🌐 Dataset
-### The "U.S. Accidents from 2016 to 2020" dataset contains detailed records of **2.5 million accidents** across the United States, with a total data size of **1.33 GB**. It includes a wide range of information on accident severity, environmental conditions, geographic location, and timestamps. [Dataset](https://www.kaggle.com/datasets/girishwaran/us-accidents-from-2016-to-2020)
 
 ## 📊 Project Details
 
-### In this project, this dataset is well showed through exploratory data analysis (EDA), in addition, a machine learning model is focused on traffic accident patterns and prediction.
+### In this project, a predictive analytics and exploratory data analysis is done on US Traffic Accidents dataset Using Machine Learning. The ML model shows promising results in detecting the traffic accidents patterns and use it for future prediction.
+
+## 🌐 Dataset
+### The "U.S. Accidents from 2016 to 2020" dataset contains detailed records of **2.5 million accidents** across the United States, with a total data size of **1.33 GB**. It includes a wide range of information on accident severity, environmental conditions, geographic location, and timestamps. [Dataset](https://www.kaggle.com/datasets/girishwaran/us-accidents-from-2016-to-2020)
 
 ## 📊 Exploratory Data Analysis (EDA)
 
@@ -24,9 +21,6 @@ Predictive Analytics and Exploratory Data Analysis of US Traffic Accidents Using
 > ### **Accident Severity Distribution Over Time**
 > ![Accident Severity Distribution Over Time](./media/Accident-Severity-Distribution-Over-Time-Prediction-using-ML-Ali-Masaoodi.png)
 
-> ### **Accident Severity Distribution Over Time**
-> ![Accident Severity Distribution Over Time](./media/Accident-Severity-Distribution-Over-Time-Prediction-using-ML-Ali-Masaoodi.png)
-
 > ### **Accident Severity Distribution Over Top Cities**
 > ![Accident Severity Distribution Over Top Cities](./media/Accident-Severity-Distribution-Over-Top-Cities-Prediction-using-ML-Ali-Masaoodi.png)
 
@@ -36,8 +30,6 @@ Predictive Analytics and Exploratory Data Analysis of US Traffic Accidents Using
 > ### **Accident Severity Distribution Over Time**
 > ![Accident Severity Distribution Over Time](./media/Accident-Severity-Distribution-Prediction-using-ML-Ali-Masaoodi.png)
 
-
-</div>
 
 ## Tools 
 Python, Sklearn, Seaborn, Panda, Numpy, Matplotlib.<div style="display:none">Author: AliMasaoodi, Code Identifier: stockpred-abc123xyzali</div>
