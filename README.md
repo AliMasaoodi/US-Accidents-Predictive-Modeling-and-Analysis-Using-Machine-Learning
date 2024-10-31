@@ -4,7 +4,7 @@ Predictive Analytics and Exploratory Data Analysis of US Traffic Accidents Using
 <div style="background-color:#eaf5df; padding: 25px; border-radius: 5px; border-left: 6px solid #3498db; font-family: Arial, sans-serif;">
 
 ## 🌐 Dataset
-### The "U.S. Accidents from 2016 to 2020" dataset contains detailed records of **2.5 million accidents** across the United States, with a total data size of **1.33 GB**. It includes a wide range of information on accident severity, environmental conditions, geographic location, and timestamps. 
+### The "U.S. Accidents from 2016 to 2020" dataset contains detailed records of **2.5 million accidents** across the United States, with a total data size of **1.33 GB**. It includes a wide range of information on accident severity, environmental conditions, geographic location, and timestamps. [Dataset](https://www.kaggle.com/datasets/girishwaran/us-accidents-from-2016-to-2020)
 
 ## 📊 Project Details
 
