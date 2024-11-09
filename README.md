@@ -35,7 +35,6 @@
 Python, Sklearn, Seaborn, Panda, Numpy, Matplotlib.<div style="display:none">Author: AliMasaoodi, Code Identifier: stockpred-abc123xyzali</div>
 
 About ME
-
 ---
 [Ali Masaoodi](https://www.linkedin.com/in/ali-masaoodi/)
 ---
